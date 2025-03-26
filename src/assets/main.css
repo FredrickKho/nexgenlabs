@@ -1,35 +1,24 @@
-@import './base.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-#app {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  font-weight: normal;
+:root{
+  --light-green: #BADA55;
+  --dark-shade-blue: #24252D;
 }
 
-a,
-.green {
-  text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
-  transition: 0.4s;
-  padding: 3px;
+/* body{
+  background-color: var(--dark-shade-blue);
+  color:white;
+} */
+html {
+  background-color: '#FFFFFF';
+  color: var(--text-dark);
 }
-
-@media (hover: hover) {
-  a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
-  }
+html.dark * {
+  background-color: var(--dark-shade-blue);
+  color: white;
 }
-
-@media (min-width: 1024px) {
-  body {
-    display: flex;
-    place-items: center;
-  }
-
-  #app {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 0 2rem;
-  }
+*{
+  font-family: Arial, Helvetica, sans-serif;
 }
