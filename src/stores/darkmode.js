@@ -15,8 +15,11 @@ export default defineStore('darkmode',{
   actions: {
     getSavedTheme() {
       const savedTheme = localStorage.getItem('theme')
-      if (savedTheme) return savedTheme
-      if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      if(savedTheme === null){
+        localStorage.setItem('theme', 'dark')
+        return true
+      }
+      if (savedTheme === "dark") {
         return true
       }
       return false
@@ -36,8 +39,10 @@ export default defineStore('darkmode',{
     applyTheme() {
       if (this.isDark) {
         document.documentElement.classList.add('dark')
+        localStorage.setItem('theme', 'dark')
       } else {
         document.documentElement.classList.remove('dark')
+        localStorage.setItem('theme', 'light')
       }
     },
     toggleDarkmode(){

@@ -2,6 +2,7 @@
 import { onMounted } from 'vue';
 import AppHeader from './components/Header.vue';
 import useDarkmodeStore from '@/stores/darkmode';
+
 export default {
   name: "App",
   components: {
@@ -10,6 +11,7 @@ export default {
   setup(){
     const darkmodeStore = useDarkmodeStore();
     onMounted(() => {
+      console.log("unmount dulu")
       darkmodeStore.initializeTheme();
     });
   }
