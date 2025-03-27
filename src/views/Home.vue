@@ -20,6 +20,7 @@ export default {
       <img src="/public/assets/go-viral.png" alt="go-viral.png" class="w-full" />
     </div>
   </div>
+
   <!-- problem section -->
   <div class="flex flex-col py-16 max-md:py-10 max-sm:py-6">
     <div
@@ -71,6 +72,16 @@ export default {
           <button class="border border-solid border-1 border-white py-2 px-4 max-sm:py-1 max-sm:px-2 font-bold lg:text-p-lg max-md:text-p-md max-sm:text-p-sm" type="button">{{ $t('home.readmore') }}</button>
         </div>
       </div>
+    </div>
+  </div>
+
+  <!-- services section -->
+  <div class="flex flex-col py-16 max-md:py-10 max-sm:py-6">
+    <div>
+      <h2>Our Services</h2>
+    </div>
+    <div>
+
     </div>
   </div>
 </template>

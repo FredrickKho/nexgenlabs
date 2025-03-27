@@ -26,6 +26,62 @@
             "text6": "videos to help your business stand out and gain ",
             "span6": "SALES "
         },
-        "readmore": "Read More >"
+        "readmore": "Read More >",
+        "services": {
+            "title": "Our Services",
+            "card1": {
+                "designed": "Designed to stand out",
+                "topic": "Marketing Reels"
+            },
+            "card1": {
+                "designed": "Designed to establish your brand",
+                "topic": "Video Ads"
+            },
+            "card1": {
+                "designed": "Designed to capture the moment",
+                "topic": "Event Documentation"
+            },
+            "card1": {
+                "designed": "Designed for online presence",
+                "topic": "Social Media Management"
+            },
+            "ineedthis": "I NEED this!"
+        },
+        "solution": {
+            "text1": "Our",
+            "span1": "Creative",
+            "text2": "Solutions",
+            "viewmore": "View More"
+        },
+        "testimony": {
+            "user1": {
+                "name": "Tengku Zainal, Botrem",
+                "desc": "The team beautifully captured the essence of my brand, allowing me to proudly showcase it to the world. I'm truly grateful for their exceptional work!"
+            },
+            "user2": {
+                "name": "Jayden, SOM",
+                "desc": "I was blown away by the innovative and creative approach the team delivered. The best part? It truly works!"
+            },
+            "user3": {
+                "name": "Shiv, KC",
+                "desc": "Consistently exceptional work! I absolutely love the fun and youthful energy this team brings to every project."
+            },
+            "user4": {
+                "name": "Dummy user",
+                "desc": "Dummy user to test carousel"
+            }
+        },
+        "contact": {
+            "followus": "Follow us on Instagram",
+            "contact": "Contact",
+            "map": "Keluarga Road No. 36, Palmerah subdistrict, West Jakarta, Jakarta",
+            "form": {
+                "firstname": "First Name",
+                "lastname": "Last Name",
+                "email": "Email*",
+                "message": "Message",
+                "send": "Send"
+            }
+        }
     }
 }
