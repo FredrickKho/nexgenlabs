@@ -4,5 +4,28 @@
         "about": "Tentang Kami",
         "portfolio": "Portofolio",
         "contact": "Kontak"
+    },
+    "home": {
+        "intro": {
+            "text1": "Kami membuat video ",
+            "span1": "viral ",
+            "text2": "yang bisa membantu bisnis ",
+            "span2": "PENJUALAN "
+        },
+        "problem": {
+            "text1": "Kesulitan dalam ",
+            "span1": "penjualan",
+            "text2": "? cari tahu ",
+            "span2": "alasannya",
+            "text3": "Bisnis Anda menyatu ketika seharusnya ",
+            "span3": "menonjol ",
+            "text4": "Itulah yang kami lakukan di sini. Kami membuat video yang ",
+            "span4": "MEMUKAU ",
+            "text5": "dan ",
+            "span5": "MENARIK ",
+            "text6": "untuk membantu Bisnis Anda menonjol serta meningkatkan ",
+            "span6": "PENJUALAN "
+        },
+        "readmore": "BACA SELENGKAPNYA >"
     }
 }

@@ -5,6 +5,7 @@
         <h1 class="text-h1-xs sm:text-h1-sm md:text-h1-md lg:text-h1-lg font-bold">
           Nex<span class="text-lime-500 dark:text-light-green">Gen</span>Labs
         </h1>
+
         <div class="flex flex-row items-center hidden lg:flex">
           <div>
             <a
@@ -49,9 +50,11 @@
             </div>
           </div>
         </div>
+
         <div class="flex shrink-0 lg:hidden">
+            <LocaleSelector></LocaleSelector>
           <button
-            class="inline-flex justify-center items-center text-gray-500 rounded-md hover:text-black"
+            class="inline-flex justify-center items-center text-gray-500 rounded-md hover:text-black pl-2"
             @click="showMenu = !showMenu"
           >
             <span class="sr-only">Open main menu</span
@@ -119,6 +122,7 @@
             >{{ $t('header.contact') }}</a
           >
         </div>
+
         <div>
           <div
             class="text-gray-700 hover:text-black dark:text-gray-300 dark:hover:text-white block px-4 py-2.5 rounded-md text-sm font-bold"

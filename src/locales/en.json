@@ -4,5 +4,28 @@
         "about": "About",
         "portfolio": "Portfolio",
         "contact": "Contact"
+    },
+    "home": {
+        "intro": {
+            "text1": "We create ",
+            "span1": "viral ",
+            "text2": "videos that gets your business ",
+            "span2": "SALES "
+        },
+        "problem": {
+            "text1": "Struggling to ",
+            "span1": "sell",
+            "text2": "? Here's ",
+            "span2": "why? ",
+            "text3": "Your Business blends in when it should ",
+            "span3": "stand out",
+            "text4": "That's what we did here. We simply create ",
+            "span4": "STUNNING ",
+            "text5": "and ",
+            "span5": "ENGAGING ",
+            "text6": "videos to help your business stand out and gain ",
+            "span6": "SALES "
+        },
+        "readmore": "Read More >"
     }
 }
