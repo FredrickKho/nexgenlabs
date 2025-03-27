@@ -109,7 +109,6 @@
 
 <script>
 import { Switch } from '@headlessui/vue'
-import { ref } from 'vue'
 import useDarkmodeStore from '@/stores/darkmode'
 import { mapActions, mapState, mapWritableState } from 'pinia'
 

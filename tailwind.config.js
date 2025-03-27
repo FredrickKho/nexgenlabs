@@ -16,6 +16,26 @@ export default {
         'h1-sm': '20px',
         'h1-md': '30px',
         'h1-lg': '40px',
+
+        'h2-xs': '15px',
+        'h2-sm': '20px',
+        'h2-md': '30px',
+        'h2-lg': '45px',
+
+        'h3-xs': '10px',
+        'h3-sm': '15px',
+        'h3-md': '15px',
+        'h3-lg': '25px',
+
+        'h4-xs': '7px',
+        'h4-sm': '10px',
+        'h4-md': '15px',
+        'h4-lg': '25px',
+
+        'p-xs': '5px',
+        'p-sm': '7px',
+        'p-md': '10px',
+        'p-lg': '15px',
       },
       container: {
         'center': true,

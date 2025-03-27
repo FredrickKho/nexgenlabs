@@ -4,5 +4,84 @@
         "about": "Tentang Kami",
         "portfolio": "Portofolio",
         "contact": "Kontak"
+    },
+    "home": {
+        "intro": {
+            "text1": "Kami membuat video ",
+            "span1": "viral ",
+            "text2": "yang bisa membantu bisnis ",
+            "span2": "PENJUALAN "
+        },
+        "problem": {
+            "text1": "Kesulitan dalam ",
+            "span1": "penjualan",
+            "text2": "? cari tahu ",
+            "span2": "alasannya",
+            "text3": "Bisnis Anda menyatu ketika seharusnya ",
+            "span3": "menonjol ",
+            "text4": "Itulah yang kami lakukan di sini. Kami membuat video yang ",
+            "span4": "MEMUKAU ",
+            "text5": "dan ",
+            "span5": "MENARIK ",
+            "text6": "untuk membantu Bisnis Anda menonjol serta meningkatkan ",
+            "span6": "PENJUALAN "
+        },
+        "readmore": "BACA SELENGKAPNYA >",
+        "services": {
+            "title": "Servis Kami",
+            "card1": {
+                "designed": "Dirancang untuk berdiri",
+                "topic": "Marketing Reels"
+            },
+            "card1": {
+                "designed": "Dirancang untuk membangun brand anda",
+                "topic": "Video Iklan"
+            },
+            "card1": {
+                "designed": "Dirancang untuk menciptakan moment",
+                "topic": "Acara Dokumentasi"
+            },
+            "card1": {
+                "designed": "Dirancang untuk kehadiran online",
+                "topic": "Manajemen Media Sosial"
+            },
+            "ineedthis": "SAYA BUTUH ini!"
+        },
+        "solution": {
+            "text1": "Solusi",
+            "span1": "Kreatif",
+            "text2": "Kami",
+            "viewmore": "Lihat lebih banyak"
+        },
+        "testimony": {
+            "user1": {
+                "name": "Tengku Zainal, Botrem",
+                "desc": "Tim ini dengan indah menangkap esensi merek saya, sehingga saya dapat dengan bangga memamerkannya kepada dunia. Saya sangat berterima kasih atas kerja keras mereka yang luar biasa!"
+            },
+            "user2": {
+                "name": "Jayden, SOM",
+                "desc": "Saya terpesona oleh pendekatan inovatif dan kreatif yang diberikan tim. Bagian terbaiknya? Ini benar-benar berhasil!"
+            },
+            "user3": {
+                "name": "Shiv, KC",
+                "desc": "Pekerjaan yang selalu luar biasa! Saya sangat menyukai kegembiraan dan energi muda yang dibawa tim ini ke setiap proyek."
+            },
+            "user4": {
+                "name": "Dummy user",
+                "desc": "Dummy user to test carousel"
+            }
+        },
+        "contact": {
+            "followus": "Ikuti kami di Instagram",
+            "contact": "Kontak",
+            "map": "Jl Keluarga No.36, Kec Palmerah, Jakarta Barat, DKI Jakarta",
+            "form": {
+                "firstname": "Nama Depan",
+                "lastname": "Nama Belakang",
+                "email": "Email*",
+                "message": "Pesan",
+                "send": "Kirim"
+            }
+        }
     }
 }
