@@ -47,6 +47,25 @@
             },
             "ineedthis": "SAYA BUTUH ini!"
         },
+        "service": {
+            "title": "Servis Kami",
+            "card": [
+                {
+                    "designed": "Dirancang untuk berdiri",
+                    "topic": "Marketing Reels"
+                },{
+                    "designed": "Dirancang untuk membangun brand anda",
+                    "topic": "Video Iklan"
+                },{
+                    "designed": "Dirancang untuk menciptakan moment",
+                    "topic": "Acara Dokumentasi"
+                },{
+                    "designed": "Dirancang untuk kehadiran online",
+                    "topic": "Manajemen Media Sosial"
+                }
+            ],
+            "ineedthis": "SAYA BUTUH ini!"
+        },
         "solution": {
             "text1": "Solusi",
             "span1": "Kreatif",

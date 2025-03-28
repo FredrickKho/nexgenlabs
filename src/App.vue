@@ -1,12 +1,13 @@
 <script>
 import { onMounted } from 'vue';
 import AppHeader from './components/Header.vue';
+import AppFooter from './components/Footer.vue';
 import useDarkmodeStore from '@/stores/darkmode';
 
 export default {
   name: "App",
   components: {
-    AppHeader
+    AppHeader,AppFooter
   },
   setup(){
     const darkmodeStore = useDarkmodeStore();
@@ -22,8 +23,8 @@ export default {
 <template>
   <AppHeader></AppHeader>
   <router-view>
-    
   </router-view>
+  <AppFooter></AppFooter>
 </template>
 
 <style>

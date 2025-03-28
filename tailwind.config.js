@@ -1,8 +1,10 @@
+/* eslint-disable no-undef */
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
     "./index.html",
     "./src/**/*.{vue,js,ts,jsx,tsx}",
+    "./node_modules/flowbite/**/*.{js,jsx,ts,tsx,vue}",
   ],
   darkMode: 'class',
   theme: {
@@ -25,7 +27,7 @@ export default {
         'h3-xs': '10px',
         'h3-sm': '15px',
         'h3-md': '15px',
-        'h3-lg': '25px',
+        'h3-lg': '28px',
 
         'h4-xs': '7px',
         'h4-sm': '10px',
@@ -42,7 +44,7 @@ export default {
       }
     },
   },
-  plugins: [],
+  plugins: [require('flowbite/plugin')],
 }
 //sm == min 640px
 //md == min 768px

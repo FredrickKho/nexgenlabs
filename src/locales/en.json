@@ -27,24 +27,23 @@
             "span6": "SALES "
         },
         "readmore": "Read More >",
-        "services": {
+        "service": {
             "title": "Our Services",
-            "card1": {
-                "designed": "Designed to stand out",
-                "topic": "Marketing Reels"
-            },
-            "card1": {
-                "designed": "Designed to establish your brand",
-                "topic": "Video Ads"
-            },
-            "card1": {
-                "designed": "Designed to capture the moment",
-                "topic": "Event Documentation"
-            },
-            "card1": {
-                "designed": "Designed for online presence",
-                "topic": "Social Media Management"
-            },
+            "card": [
+                {
+                    "designed": "Designed to stand out",
+                    "topic": "Marketing Reels"
+                },{
+                    "designed": "Designed to establish your brand",
+                    "topic": "Video Ads"
+                },{
+                    "designed": "Designed to capture the moment",
+                    "topic": "Event Documentation"
+                },{
+                    "designed": "Designed for online presence",
+                    "topic": "Social Media Management"
+                }
+            ],
             "ineedthis": "I NEED this!"
         },
         "solution": {
