@@ -53,6 +53,7 @@
             "viewmore": "View More"
         },
         "testimony": {
+            "title": "What Clients Say",
             "user1": {
                 "name": "Tengku Zainal, Botrem",
                 "desc": "The team beautifully captured the essence of my brand, allowing me to proudly showcase it to the world. I'm truly grateful for their exceptional work!"
@@ -82,5 +83,58 @@
                 "send": "Send"
             }
         }
+    },
+    "about": {
+        "title": "About Us",
+        "intro": {
+            "text1": "At NexGenLabs, we’re redefining digital marketing. We’re sick of the outdated, traditional marketing approaches that",
+            "span1": "don’t work",
+            "text2": "—generic strategies, bland campaigns, and wasted budgets. Instead, we focus on modern, data-driven, and highly engaging solutions that bring",
+            "span2": "real results"
+        },
+        "mission": {
+            "title": "Our Mission",
+            "text1": "Our mission is simple: to transform businesses into",
+            "span1": "powerful brands",
+            "text2": "that drive real",
+            "span2": "revenue",
+            "text3": "We don’t just help you grow an audience—we turn that audience into paying customers through strategic branding, viral marketing, and high-converting content"
+        },
+        "what": {
+            "title": "What We Do",
+            "span1": "Branding & Identity",
+            "text1": "Unique, high-impact brand positioning that makes a statement.",
+            "span2": "Social Media Growth",
+            "text2": "Proven strategies to attract, engage, and convert your ideal audience.",
+            "span3": "Content Creation",
+            "text3": "Engaging, thumb-stopping content designed for maximum visibility.",
+            "span4": "Marketing Strategy",
+            "text4": "A fresh, data-backed approach tailored for modern success—not outdated tactics."
+        },
+        "why": {
+            "title": "Why Choose Us?",
+            "span1": "No More Old-School Marketing",
+            "text1": "We ditch the fluff and focus on what actually works today.",
+            "span2": "Trend-Focused & Innovation-Driven",
+            "text2": "Staying ahead of trends so your brand never falls behind.",
+            "span3": "Custom-Tailored Strategies",
+            "text3": "No one-size-fits-all solutions—everything is built for your business.",
+            "span4": "Proven Track Record",
+            "text4": "We’ve helped brands go viral, grow their reach, and increase conversions.",
+            "text5": "Join NexGenLabs and break free from traditional marketing that doesn't work.",
+            "text6": "It’s time for a new era of branding, content, and strategy—one that actually brings in",
+            "sales": "SALES",
+            "span5": "Let’s talk",
+            "text7": "— your",
+            "span6": "brand’s future",
+            "text8": "starts now"
+        },
+        "team": {
+            "ceo": "Founder & CEO",
+            "marketing": "Marketing Lead",
+            "web": "Web Designer",
+            "reels": "Reels Coordinator"
+        },
+        "home": "Back to home"
     }
 }
