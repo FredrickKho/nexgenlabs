@@ -1,5 +1,9 @@
 <template>
-  <div class="flex items-center justify-center relative" id="default-carousel" data-carousel="static">
+  <div
+    class="flex items-center justify-center relative"
+    id="default-carousel"
+    data-carousel="static"
+  >
     <div class="mx-10">
       <button type="button" class="" data-carousel-prev>
         <span
@@ -26,10 +30,17 @@
     </div>
     <div class="relative h-56 w-56 overflow-hidden rounded-lg">
       <div class="hidden duration-700 ease-in-out" data-carousel-item>
-        <img src="/assets/img/analytics.png" alt="analytics.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" />
+        <img
+          src="/assets/img/analytics.png"
+          alt="analytics.png"
+          class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+        />
       </div>
       <div class="hidden duration-700 ease-in-out" data-carousel-item>
-        <video controls class="absolute block h-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" >
+        <video
+          controls
+          class="absolute block h-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+        >
           <source src="/assets/video/philips-lock-door.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
@@ -67,9 +78,6 @@
       </button>
     </div>
   </div>
-
-
-
 </template>
 
 <script>
